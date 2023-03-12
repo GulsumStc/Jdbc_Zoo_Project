@@ -1,0 +1,46 @@
+/*
+Task:
+
+Hayvanlar tablosu özellikleri:
+
+id: Hayvanların benzersiz kimlik numarası.
+ad: Hayvanların ismi.
+tür: Hayvanların türü (örn. aslan, zürafa, fil).
+yaş: Hayvanların yaşı.
+cinsiyet: Hayvanların cinsiyeti.
+sağlık_durumu: Hayvanların sağlık durumu (örn. iyi, hasta, yaralı).
+kafes_no: Hayvanların kaldığı kafesin numarası.
+
+
+Ziyaretçi tablosu özellikleri:
+id: Ziyaretçilerin benzersiz kimlik numarası.
+ad: Ziyaretçilerin adı.
+soyad: Ziyaretçilerin soyadı.
+giriş_tarihi: Ziyaretçilerin hayvanat bahçesine giriş yaptıkları tarih ve saat.
+bilet_no: Ziyaretçilerin bilet numarası.
+
+Bu tablolar üzerinden bir Java projesi geliştirebiliriz. Projenin temel özellikleri şunlar olabilir:
+
+Hayvanları listeleme: Kullanıcının hayvanların türleri, yaşları, cinsiyetleri, sağlık durumları ve kafes numaraları gibi bilgileri görüntüleyebileceği bir özellik.
+Yeni hayvan ekleme: Kullanıcının yeni bir hayvanın türü, yaşı, cinsiyeti, sağlık durumu ve kafes numarası gibi bilgileri girerek veritabanına kaydedebileceği bir özellik.
+Hayvan bilgilerini güncelleme: Var olan hayvanların yaşları, sağlık durumları ve diğer bilgileri güncelleme özelliği.
+Hayvanlarin saglik durumlarini goruntule:
+Hayvan silme: Seçilen hayvanın veritabanından silinmesini sağlayan bir özellik.
+
+
+
+Ziyaretçi listeleme: Kullanıcının ziyaretçilerin adları, soyadları, giriş tarihleri ve bilet numaraları gibi bilgileri görüntüleyebileceği bir özellik.
+Yeni ziyaretçi ekleme: Kullanıcının yeni bir ziyaretçinin adı, soyadı, giriş tarihi ve bilet numarası gibi bilgileri girerek veritabanına kaydedebileceği bir özellik.
+Ziyaretçi bilgilerini güncelleme: Var olan ziyaretçilerin adları, soyadları, giriş tarihleri ve bilet numaraları gibi bilgileri güncelleme özelliği.
+Ziyaretçi silme: Seçilen ziyaretçinin veritaban
+
+
+
+
+Regenerate response
+
+
+
+
+
+ */
